@@ -1,0 +1,15 @@
+org: babbworks
+
+topic_categories:
+  babb-tool: tool
+  babb-featured: tool
+  babb-vision: vision
+  babb-internal: internal
+
+section_map:
+  "What is it?": summary
+  "The Problem": problem
+  "How it Works": how
+  "Current Status": status
+  "The Vision": vision
+  "Industry Context": context
