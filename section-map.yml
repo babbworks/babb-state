@@ -5,6 +5,7 @@ topic_categories:
   babb-featured: tool
   babb-vision: vision
   babb-internal: internal
+  babb-standard: standard
 
 section_map:
   "What is it?": summary
